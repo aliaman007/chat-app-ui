@@ -1,0 +1,111 @@
+[
+    {
+        "id": 49574679451,
+        "sender": "John",
+        "message": [
+            {
+                "id": 43568943,
+                "sender": "John",
+                "text": "Just working on some projects. How about you?",
+                "timestamp": "10:00 AM"
+            },
+            {
+                "id": 546878464,
+                "sender": "You",
+                "text": "Not bad, thanks for asking.",
+                "timestamp": "10:00 AM"
+    
+            }
+        ],
+        "status": true,
+        "lastmsg":"Not bad, than..."
+        },
+
+        {
+            "id": 475649574679451,
+            "sender": "Wills",
+            "message": [
+                {
+                    "id": 45443568943,
+                    "sender": "Wills",
+                    "text": "Just working on some projects. How about you?",
+                    "timestamp": "10:00 AM"
+                },
+                {
+                    "id": 5467546878464,
+                    "sender": "You",
+                    "text": "Not bad, thanks for asking.",
+                    "timestamp": "10:00 AM"
+        
+                }
+            ],
+            "status": true,
+            "lastmsg":"Not bad, than..."
+            },
+
+            {
+                "id": 4645649574679451,
+                "sender": "James",
+                "message": [
+                    {
+                        "id": 5645643568943,
+                        "sender": "James",
+                        "text": "Just working on some projects. How about you?",
+                        "timestamp": "10:00 AM"
+                    },
+                    {
+                        "id": 5645654546878464,
+                        "sender": "You",
+                        "text": "Not bad, thanks for asking.",
+                        "timestamp": "10:00 AM"
+            
+                    }
+                ],
+                "status": false,
+                "lastmsg":"Not bad, than..."
+                },
+
+
+                {
+                    "id": 4355349574679451,
+                    "sender": "Kim",
+                    "message": [
+                        {
+                            "id": 435343568943,
+                            "sender": "Kim",
+                            "text": "Just working on some projects. How about you?",
+                            "timestamp": "10:00 AM"
+                        },
+                        {
+                            "id": 453546878464,
+                            "sender": "You",
+                            "text": "Not bad, thanks for asking.",
+                            "timestamp": "10:00 AM"
+                
+                        }
+                    ],
+                    "status": true,
+                    "lastmsg":"Not bad, than..."
+                    },
+                    {
+                        "id": 435349574679451,
+                        "sender": "Marry",
+                        "message": [
+                            {
+                                "id": 43543568943,
+                                "sender": "Marry",
+                                "text": "Just working on some projects. How about you?",
+                                "timestamp": "10:00 AM"
+                            },
+                            {
+                                "id": 544536878464,
+                                "sender": "You",
+                                "text": "Hoolaa, thanks for asking.",
+                                "timestamp": "10:00 AM"
+                    
+                            }
+                        ],
+                        "status": false,
+                        "lastmsg":"Hoolaaa, than..."
+                        }
+]
